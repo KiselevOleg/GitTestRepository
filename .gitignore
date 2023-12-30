@@ -1,6 +1,17 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++,git,vim,cmake,linux,macos,windows,visualstudio,codeblocks,emacs,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,git,vim,cmake,linux,macos,windows,visualstudio,codeblocks,emacs,eclipse
 
+### Basic configuration ###
+# Edirtor
+.idea
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
 ### C++ ###
 # Prerequisites
 *.d
